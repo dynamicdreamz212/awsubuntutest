@@ -1,2 +1,2 @@
-FROM dynamicdreamz212/apache
+FROM dynamicdreamz212/webapp
 ADD . /var/www/html
